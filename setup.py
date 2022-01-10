@@ -21,11 +21,11 @@ setup(
     long_description=README,
     
     # The project's main homepage.
-    url='https://github.com/yceruto/django-ajax',
+    url='https://github.com/AlexanderDefuria/django-ajax',
     
     # Author details
-    author='Yonel Ceruto Glez',
-    author_email='yonelceruto@gmail.com',
+    author='Alexander De Furia',
+    author_email='defuria.alexander@gmail.com',
     
     license='MIT',
     
@@ -48,7 +48,7 @@ setup(
     platforms=['OS Independent'],
     
     install_requires=[
-        'django>=2.0',
+        'django>=4.0',
     ],
 
     include_package_data=True,
